@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gitansh-18/GitanshMaski/main/gitansh-ascii.svg" width="390" alt="Gitansh" />
+<img src="https://raw.githubusercontent.com/Gitansh-18/GitanshMaski/main/gitansh-ascii.svg" width="420" alt="Gitansh" />
 
 <br/>
 
