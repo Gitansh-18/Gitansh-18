@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gitansh-18/Gitansh-18/main/gitansh-ascii.svg" width="420" alt="Gitansh Cartoon" />
+<img src="https://raw.githubusercontent.com/Gitansh-18/Gitansh-18/main/gitansh-ascii.svg"
+     width="420"
+     alt="Gitansh Cartoon" />
 
 <br/>
 
